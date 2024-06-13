@@ -1,6 +1,6 @@
 ## Hi there, I'm Emilyy! 👋
 
-I'm a 15-year-old developer from the Netherlands with a passion for building web applications using React.js and Node.js.
+I'm a 15-year-old developer from the Netherlands.
 
 ### About Me
 
