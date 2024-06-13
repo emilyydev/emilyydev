@@ -23,7 +23,7 @@ I'm a 15-year-old developer from the Netherlands with a passion for building web
 
 ### GitHub Stats
 
-![Emilyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Emilyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyydev&show_icons=true&theme=radical)
 
 ### Contact me!
 
