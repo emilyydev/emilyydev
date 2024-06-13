@@ -1,31 +1,23 @@
-## Hi there, I'm Emilyy! 👋
+<h1 align="center">👋 Hello! I am emilyy</h1>
+<h3 align="center">A backend developer from the Netherlands.</h3>
 
-I'm a 15-year-old developer from the Netherlands.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyydev&label=Views&color=ff00d0&style=flat-square" alt="emilyydev" /> </p>
 
-### About Me
+- 🔭 I’m currently working on [my cydia repo template](https://github.com/emilyydev/cydia-repo)
 
-- 🌍 I'm from the Netherlands
-- 🧑‍💻 I'm 15 years old
-- 🌱 Currently learning more about full-stack development with JavaScript
-- 💬 Ask me about React.js, Node.js, and web development in general
-- 📫 How to reach me: [me@emilyy.codes](mailto:me@emilyy.codes)
+- 🌱 I’m currently learning **react and node**
 
-### What do I use?
+- 💬 Ask me about **node, react**
 
-- **Frontend:** 
-  - React.js
-  - HTML
-  - CSS
-  - JavaScript
-- **Backend:** 
-  - Node.js
-  - Express.js
+- 📫 How to reach me **me@emilyy.codes**
 
-### GitHub Stats
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![Emilyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyydev&show_icons=true&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### Contact me!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilyydev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="emilyydev" /></p>
 
-- [Discord](https://discord.com/user/1249107248387457222)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emilyydev&show_icons=true&locale=en" alt="emilyydev" /></p>
