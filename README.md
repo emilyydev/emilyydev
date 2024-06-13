@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello! I am emilyy</h1>
 <h3 align="center">A backend developer from the Netherlands.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyydev&label=Views&color=ff00d0&style=flat-square" alt="emilyydev" /> </p>
-
 - 🔭 I’m currently working on [my cydia repo template](https://github.com/emilyydev/cydia-repo)
 
 - 🌱 I’m currently learning **react and node**
