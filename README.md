@@ -1,11 +1,9 @@
 <h1 align="center">👋 Hello! I am emilyy</h1>
-<h3 align="center">A backend developer from the Netherlands.</h3>
+<h3 align="center">A developer from the Netherlands.</h3>
 
 - 🔭 I’m currently working on [my cydia repo template](https://github.com/emilyydev/cydia-repo)
 
-- 🌱 I’m currently learning **react and node**
-
-- 💬 Ask me about **node, react**
+- 💬 Ask me about **ios jailbreaking**
 
 - 📫 How to reach me **me@emilyy.codes**
 
